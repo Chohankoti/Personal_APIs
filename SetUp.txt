@@ -1,0 +1,2 @@
+npm init -y 
+npm install json-server@^0.17.3 json-serve cors
